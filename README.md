@@ -1,0 +1,2 @@
+# Magi-CARP
+CommunityAtRandomPlaces 
