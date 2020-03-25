@@ -12,7 +12,7 @@ $.getJSON("markers.json", function(json) {
 function onEachFeature(feature, layer) {
     console.log(feature)
     layer.bindPopup(
-        "<div class='box'> <img src="+feature.properties.image+"> </div> Date: "+feature.properties.date+" <br>contributer: "+feature.properties.contributer+"<br>Community : "+feature.properties.comunity
+        "<div class='box'> <img src="+feature.properties.image+"> </div> Date: "+feature.properties.date+" <br>contributer: "+feature.properties.contributer+"<br>Community : "+feature.properties.community
         );
 }
 
