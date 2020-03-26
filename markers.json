@@ -1,8 +1,25 @@
 [{
     "latitud": 26.487,
     "longitud": 74.556,
-    "community": "ilug",
+    "community": "ilugdelhi",
     "image":"images/sample_logo.jpg",
     "date":"15-Dec-2019",
     "contributer":"cvam"
+    },
+ {
+    "latitud": 28.726089,
+    "longitud": 77.162681,
+    "community": "ilugdelhi",
+    "image":"images/delhi-1.jpg",
+    "date":"10-Nov-2019",
+    "contributer":"Ayan Pahwa"
+    },
+
+ {
+    "latitud": 12.905762,
+    "longitud": 80.096957,
+    "community": "ilugdelhi",
+    "image":"images/chennai-1.jpg",
+    "date":"16-Oct-2019",
+    "contributer":"Philomath"
     }]
